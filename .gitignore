@@ -68,3 +68,4 @@ docker-compose.override.yml
 # --- Datos y modelos ---
 data/
 models/
+run_id.txt
